@@ -11,7 +11,7 @@
 
 | Video # | Topic | Practical Notebook | Video Link |
 | :--- | :--- | :--- | :--- |
-| **Video 1** | Build Your First RAG Pipeline in 5 Mins | [Open in Colab](https://colab.research.google.com/) | [Watch Video](https://youtube.com) |
+| **Video 1** | Build Your First RAG Pipeline in 5 Mins | [Open in Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1oFUqzyBnIzUHIcGB8n_UjlA8YDxFFAuP?usp=sharing)) | [Watch Video](https://youtube.com) |
 | **Video 2** | Chunking & Data Ingestion (Handling PDFs) | Coming Soon | Coming Soon |
 | **Video 3** | Moving to Cloud Vector DB (Pinecone/Qdrant) | Coming Soon | Coming Soon |
 | **Video 4** | Hybrid Search & Re-ranking | Coming Soon | Coming Soon |
